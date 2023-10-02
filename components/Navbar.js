@@ -172,13 +172,13 @@ const Navbar = () => {
                                 <div className='space-x-4 pt-20'>
                                     <div className='flex space-x-4'>
                                         <div className='rounded shadow-lg shadow-gray-400 p-3 cursor-pointer'>
-                                            <a href='https://github.com/BKM99' target='_blank' rel='noopener noreferrer'>
+                                            <a href='https://github.com/prasad-chavan1' target='_blank' rel='noopener noreferrer'>
                                                 <BsGithub size='2rem' />
                                             </a>
                                         </div>
                                         <div className='rounded shadow-lg shadow-gray-400 p-3 cursor-pointer'>
                                             <a
-                                                href='https://www.linkedin.com/in/brandon-morimoto/'
+                                                href='https://www.linkedin.com/in/prasad-chavan2003/'
                                                 target='_blank'
                                                 rel='noopener noreferrer'
                                             >
