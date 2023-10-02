@@ -7,6 +7,8 @@ import { yupResolver } from '@hookform/resolvers/yup'
 import Head from 'next/head'
 import Popup from '../components/ContactSubmitPopup'
 
+emailjs.init('yKa48bbuNsDFFFVWj');
+
 const contactSchema = yup.object({
     name: yup.string().required(),
     email: yup.string().email().required(),
@@ -30,10 +32,7 @@ const Contact = () => {
     const submitForm = () => {
         emailjs
             .sendForm(
-                process.env.NEXT_PUBLIC_SERVICE_ID,
-                process.env.NEXT_PUBLIC_TEMPLATE_ID,
-                form.current,
-                process.env.NEXT_PUBLIC_PUBLIC_API_KEY
+                'service_mg6nzzn', 'template_en8166k', form.current
             )
             .then(
                 function (response) {
