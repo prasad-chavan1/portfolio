@@ -19,13 +19,13 @@ const Skills = () => {
         },
       }}
     >
-      <div className="w-full pb-32">
+      <div className="w-full ">
         <div className="mx-auto flex flex-col justify-center">
-          <p className=" font-bold text-blue-900 pb-8 text-center">Skills</p>
+          <p className=" font-bold text-blue-900 pb-4 text-center">Skills</p>
 
-          <div className="w-full ">
+          <div className="w-full  ">
             <div className="mb-2 bg-blue-50 p-8 rounded-2xl">
-              <ul className="flex justify-start items-center flex-row gap-8">
+              <ul className="flex justify-start items-center flex-row flex-wrap gap-8">
                 <span className="text-blue-500">Backend</span>
 
                 <li className=" text-xl font-bold flex justify-center items-center flex-col">
@@ -106,11 +106,11 @@ const Skills = () => {
                 </li>
                 <li className=" text-xl font-bold flex justify-center items-center flex-col">
                   <Image
-                    src="/icons/react.svg"
+                    src="/icons/bluma.svg"
                     width={40}
                     height={40}
                     objectFit="contain"
-                    alt="react"
+                    alt="bluma"
                   />
                   Bluma CSS
                 </li>

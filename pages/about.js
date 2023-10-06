@@ -9,8 +9,8 @@ const About = () => {
         <title>About | Prasad Chavan</title>
       </Head>
       <div className="flex justify-between md:mx-20 md:pt-32 pt-28">
-        <div className="flex flex-col md:ml-20 mx-10 mt-10">
-          <div className="flex md:flex-row">
+        <div className="flex flex-col md:ml-20 px-10 mt-10">
+          <div className="flex flex-col md:flex-row">
               <div className=" md:px-8 ">
                   <motion.div className="md:w-96"
                     initial="hidden"
