@@ -15,7 +15,6 @@ import { SiPandas } from "react-icons/si";
 import { SiTensorflow } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
 import { FaAws } from "react-icons/fa";
-import { FaAnalysis } from 'react-icons/fa';
 
 const Skills = () => {
   return (
