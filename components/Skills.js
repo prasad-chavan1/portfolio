@@ -15,6 +15,7 @@ import { SiPandas } from "react-icons/si";
 import { SiTensorflow } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
 import { FaAws } from "react-icons/fa";
+import { FaAnalysis } from 'react-icons/fa';
 
 const Skills = () => {
   return (
@@ -121,6 +122,10 @@ const Skills = () => {
             <li className="text-xl font-bold flex justify-center items-center flex-col">
               <FaGithub size="40px" />
               git/GitHub
+            </li>
+            <li className="text-xl font-bold flex justify-center items-center flex-col">
+              <FaAnalysis size="40px" />
+              Analytics
             </li>
             <li className="text-xl font-bold flex justify-center items-center flex-col">
               <FaAws size="40px" />
