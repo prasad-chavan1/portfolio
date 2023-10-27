@@ -124,7 +124,7 @@ const Skills = () => {
               git/GitHub
             </li>
             <li className="text-xl font-bold flex justify-center items-center flex-col">
-              <FaAnalysis size="40px" />
+              
               Analytics
             </li>
             <li className="text-xl font-bold flex justify-center items-center flex-col">
