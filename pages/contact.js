@@ -49,6 +49,8 @@ const Contact = () => {
         <div className='flex items-center'>
             <Head>
                 <title>Contact | Prasad Chavan</title>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4054073151944400"
+     crossorigin="anonymous"></script>
             </Head>
             <div className='h-screen max-w-screen-xl px-4 py-16 mx-auto md:pt-32 md:p-20'>
                 <div className='grid grid-cols-1 gap-x-16 gap-y-8 lg:grid-cols-5'>
