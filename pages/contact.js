@@ -80,6 +80,7 @@ const Contact = () => {
                             >
                                 askokc4321@gmail.com
                             </a>
+                                    <br />
                                     Instagram:{' '}
                             <a
                                 className='text-blue-500 hover:underline'
