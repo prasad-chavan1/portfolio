@@ -80,6 +80,15 @@ const Contact = () => {
                             >
                                 askokc4321@gmail.com
                             </a>
+                                    Instagram:{' '}
+                            <a
+                                className='text-blue-500 hover:underline'
+                                href='https://www.instagram.com/pranshufeels_/'
+                                target='_blank'
+                                rel='noopener noreferrer'
+                            >
+                                /pranshufeels_/
+                            </a>{' '}
                         </p>
                     </div>
 
