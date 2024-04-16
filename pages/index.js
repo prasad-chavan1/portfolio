@@ -9,7 +9,7 @@ export default function Home() {
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4054073151944400"
      crossorigin="anonymous"></script>
         <meta name="description" content="Prasad Chavan portfolio. I am web developer, data analyst and machine learning enthusiast. PrasadChavan, Prasadchavan, prasad chavan"/>
-                <title>Prasad Chavan</title>
+                <title>Prasad Chavan- Web Developer</title>
             </Head>
             <HomePage/>
         </div>
