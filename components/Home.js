@@ -29,7 +29,7 @@ const Home = () => {
                         Data Analyst
                     </h1>
                     <p className='text-sm mt-4 sm:leading-relaxed md:text-xl text-black'>
-                        Market Research Analyst, Data Science, MAchine Learning Enthusiast
+                        Market Research Analyst, Data Science, Machine Learning Enthusiast
                     </p>
                     <div className='flex flex-wrap justify-center gap-4 mt-8 grid-cols-2'>
                         <Link href='/contact'>
