@@ -26,10 +26,10 @@ const Home = () => {
                         Prasad Chavan
                     </h1>
                     <h1 className='text-4xl text-blue-500 font-extrabold md:text-6xl'>
-                        FullStack Developer
+                        Data Analyst
                     </h1>
                     <p className='text-sm mt-4 sm:leading-relaxed md:text-xl text-black'>
-                        Web Developer, Cloud enthusiast, and Anime lover
+                        Market Research Analyst, Data Science, MAchine Learning Enthusiast
                     </p>
                     <div className='flex flex-wrap justify-center gap-4 mt-8 grid-cols-2'>
                         <Link href='/contact'>
